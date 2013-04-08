@@ -2,4 +2,4 @@ all:
   chmod +x ./im.py
 
 install:
-  mv ./im.py /usr/bin/im
+  sudo mv ./im.py /usr/bin/im
